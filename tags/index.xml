@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Your mission. Good Luck!</title>
-    <link>/tags/</link>
+    <link>/travis-hugo/tags/</link>
     <description>Recent content in Tags on Your mission. Good Luck!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 15 Jul 2019 07:35:05 +0700</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/travis-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>90s</title>
-      <link>/tags/90s/</link>
+      <link>/travis-hugo/tags/90s/</link>
       <pubDate>Mon, 15 Jul 2019 07:35:05 +0700</pubDate>
       
-      <guid>/tags/90s/</guid>
+      <guid>/travis-hugo/tags/90s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>industrial metal</title>
-      <link>/tags/industrial-metal/</link>
+      <link>/travis-hugo/tags/industrial-metal/</link>
       <pubDate>Mon, 15 Jul 2019 07:35:05 +0700</pubDate>
       
-      <guid>/tags/industrial-metal/</guid>
+      <guid>/travis-hugo/tags/industrial-metal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2000s</title>
-      <link>/tags/2000s/</link>
+      <link>/travis-hugo/tags/2000s/</link>
       <pubDate>Thu, 13 Sep 2018 07:35:05 +0700</pubDate>
       
-      <guid>/tags/2000s/</guid>
+      <guid>/travis-hugo/tags/2000s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nu metal</title>
-      <link>/tags/nu-metal/</link>
+      <link>/travis-hugo/tags/nu-metal/</link>
       <pubDate>Thu, 13 Sep 2018 07:35:05 +0700</pubDate>
       
-      <guid>/tags/nu-metal/</guid>
+      <guid>/travis-hugo/tags/nu-metal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hip hop</title>
-      <link>/tags/hip-hop/</link>
+      <link>/travis-hugo/tags/hip-hop/</link>
       <pubDate>Mon, 15 Jan 2018 07:35:05 +0700</pubDate>
       
-      <guid>/tags/hip-hop/</guid>
+      <guid>/travis-hugo/tags/hip-hop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>story</title>
-      <link>/tags/story/</link>
+      <link>/travis-hugo/tags/story/</link>
       <pubDate>Sat, 03 Oct 2015 08:08:15 +0700</pubDate>
       
-      <guid>/tags/story/</guid>
+      <guid>/travis-hugo/tags/story/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subtitle</title>
-      <link>/tags/subtitle/</link>
+      <link>/travis-hugo/tags/subtitle/</link>
       <pubDate>Sat, 03 Oct 2015 08:08:15 +0700</pubDate>
       
-      <guid>/tags/subtitle/</guid>
+      <guid>/travis-hugo/tags/subtitle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alternative metal</title>
-      <link>/tags/alternative-metal/</link>
+      <link>/travis-hugo/tags/alternative-metal/</link>
       <pubDate>Sat, 15 Mar 2014 07:35:05 +0700</pubDate>
       
-      <guid>/tags/alternative-metal/</guid>
+      <guid>/travis-hugo/tags/alternative-metal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agent</title>
-      <link>/tags/agent/</link>
+      <link>/travis-hugo/tags/agent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/agent/</guid>
+      <guid>/travis-hugo/tags/agent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>command</title>
-      <link>/tags/command/</link>
+      <link>/travis-hugo/tags/command/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/command/</guid>
+      <guid>/travis-hugo/tags/command/</guid>
       <description></description>
     </item>
     
     <item>
       <title>duty</title>
-      <link>/tags/duty/</link>
+      <link>/travis-hugo/tags/duty/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/duty/</guid>
+      <guid>/travis-hugo/tags/duty/</guid>
       <description></description>
     </item>
     

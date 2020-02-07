@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2000s on Your mission. Good Luck!</title>
-    <link>/tags/2000s/</link>
+    <link>/travis-hugo/tags/2000s/</link>
     <description>Recent content in 2000s on Your mission. Good Luck!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Sep 2018 07:35:05 +0700</lastBuildDate>
     
-	<atom:link href="/tags/2000s/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/travis-hugo/tags/2000s/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disturbed - Stupify</title>
-      <link>/lyrics/2018/09/13/disturbed-stupify/</link>
+      <link>/travis-hugo/lyrics/2018/09/13/disturbed-stupify/</link>
       <pubDate>Thu, 13 Sep 2018 07:35:05 +0700</pubDate>
       
-      <guid>/lyrics/2018/09/13/disturbed-stupify/</guid>
+      <guid>/travis-hugo/lyrics/2018/09/13/disturbed-stupify/</guid>
       <description>&lt;p&gt;Look in my face, stare in my soul&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Soulfly - Jump Da Fuck Up</title>
-      <link>/lyrics/2018/09/07/soulfly-jump-da-fuck-up/</link>
+      <link>/travis-hugo/lyrics/2018/09/07/soulfly-jump-da-fuck-up/</link>
       <pubDate>Fri, 07 Sep 2018 07:35:05 +0700</pubDate>
       
-      <guid>/lyrics/2018/09/07/soulfly-jump-da-fuck-up/</guid>
+      <guid>/travis-hugo/lyrics/2018/09/07/soulfly-jump-da-fuck-up/</guid>
       <description>&lt;p&gt;You seem to sever all my frequencies&lt;br /&gt;
 I&amp;rsquo;m tethered to your energies&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Soundgarden - Black Hole Sun</title>
-      <link>/lyrics/2014/03/15/soundgarden-black-hole-sun/</link>
+      <link>/travis-hugo/lyrics/2014/03/15/soundgarden-black-hole-sun/</link>
       <pubDate>Sat, 15 Mar 2014 07:35:05 +0700</pubDate>
       
-      <guid>/lyrics/2014/03/15/soundgarden-black-hole-sun/</guid>
+      <guid>/travis-hugo/lyrics/2014/03/15/soundgarden-black-hole-sun/</guid>
       <description>&lt;p&gt;In my eyes, indisposed&lt;br /&gt;
 In disguises no one knows&lt;/p&gt;</description>
     </item>
