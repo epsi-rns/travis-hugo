@@ -1,0 +1,19 @@
+
+before_script:
+  - curl -LO https://github.com/gohugoio/hugo/releases/download/v0.55.4/hugo_0.55.4_Linux-64bit.deb
+  - sudo dpkg -i hugo_0.55.4_Linux-64bit.deb
+
+script:
+  - hugo
+
+deploy:
+  local-dir: public
+  provider: pages
+  skip-cleanup: true
+
+  # Set in travis-ci.org dashboard, marked secure
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
+
